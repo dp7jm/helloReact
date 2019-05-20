@@ -4,7 +4,7 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 //import Card from './Card';
 import 'tachyons';
-import { robots } from './robots'
+//import { robots } from './robots'
 import App from './App'
 
 ReactDOM.render(
